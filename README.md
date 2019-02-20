@@ -1,2 +1,2 @@
 # Statistical Investment Portofolio Analysis
-Code for Financial Statistics Project-Find Best Return portofolio and related analysis
+Code for Financial Statistics Project-find best return portofolio,quantitize risk and predict stock price
